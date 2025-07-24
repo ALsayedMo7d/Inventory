@@ -1,0 +1,18 @@
+{
+  "guns": {
+    "SMG": 0,
+    "CompatPistol": 1,
+    "MKII": 2,
+    "M1911": 1,
+    "SNS": 0,
+    "MiniSNS": 0,
+    "Deagle": 0,
+    "HavyPistol": 0
+  },
+  "armor": 7,
+  "ammo": {
+    "Pistol": 82,
+    "Rifle": 7,
+    "SMG": 8
+  }
+}
